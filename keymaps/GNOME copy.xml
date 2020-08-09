@@ -1,0 +1,16 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+</keymap>
