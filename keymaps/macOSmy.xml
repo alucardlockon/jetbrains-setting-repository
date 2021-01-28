@@ -1,0 +1,13 @@
+<keymap version="1" name="macOSmy" parent="Mac OS X 10.5+">
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
+</keymap>
