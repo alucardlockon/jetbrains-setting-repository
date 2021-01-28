@@ -6,6 +6,10 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta f12" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="alt back_quote" />
