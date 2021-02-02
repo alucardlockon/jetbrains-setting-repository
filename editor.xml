@@ -7,5 +7,9 @@
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern pattern="\[yuwh\]\s*(todo).*" />
+    <filter name="yuwh">
+      <pattern index="1" />
+    </filter>
   </component>
 </application>

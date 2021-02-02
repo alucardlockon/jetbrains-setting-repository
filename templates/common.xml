@@ -1,0 +1,13 @@
+<templateSet group="common">
+  <template name="todo" value="// [yuwh] TODO: $content$" description="todo" toReformat="false" toShortenFQNames="true">
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="test" value="// [yuwh] TODO: test" description="todo test" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
