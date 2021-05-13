@@ -6,8 +6,22 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
+  <action id="CopyElement" />
   <action id="CopyThenJumpPaste" />
   <action id="CopyWithoutSelect" />
+  <action id="Debugger.EditTypeSource" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditSourceInNewWindow" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta g" />
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift meta g" />
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="alt n" />
@@ -19,6 +33,8 @@
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="meta alt n" />
   </action>
+  <action id="Graph.ApplyCurrentLayout" />
+  <action id="Graph.RouteEdges" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta f12" />
     <keyboard-shortcut first-keystroke="alt a" />
@@ -27,12 +43,29 @@
   <action id="HighlightPrevSymbol" />
   <action id="Inline" />
   <action id="JustOneSpace" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="ToggleBookmark" />
+  <action id="ToggleBookmarkWithMnemonic" />
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="shift ctrl alt up" />
+    <keyboard-shortcut first-keystroke="shift f4" />
   </action>
   <action id="emacsIDEAs.AceJump">
     <keyboard-shortcut first-keystroke="alt f" />
