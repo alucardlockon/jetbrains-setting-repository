@@ -1,0 +1,5 @@
+<application>
+  <component name="Pandoc.Application.Settings">
+    <option name="myPathToImages" value="$USER_HOME$/YWH/Zhili/2020-data-center/import-resources" />
+  </component>
+</application>
