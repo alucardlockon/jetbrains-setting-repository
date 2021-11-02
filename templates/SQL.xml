@@ -1,0 +1,8 @@
+<templateSet group="SQL">
+  <template name="ssf" value="SELECT * FROM $table$" description="select * from table" toReformat="false" toShortenFQNames="true">
+    <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+</templateSet>

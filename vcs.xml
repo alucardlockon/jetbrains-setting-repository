@@ -6,6 +6,21 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="alucardlockon3@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://www.zhili-tech.com:1313" />
+          <option name="userName" value="yuwenhui" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Space.CommitStatus" />
       </list>
     </option>
   </component>
